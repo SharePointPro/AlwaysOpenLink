@@ -13,7 +13,7 @@ This registry file returns this ability.
 ![Image description](https://github.com//SharePointPro/AlwaysOpenLink/blob/master/with.PNG?raw=true)
 
 # Installation
-Download alwaysOpenExternal.reg
-Run file
-Accept prompt
-Restart chrome
+Download alwaysOpenExternal.reg   
+Run file  
+Accept prompt  
+Restart chrome  
