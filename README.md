@@ -2,7 +2,7 @@
 Registry file to return "Always open links of this type in the assiociated app" to chrome
 
 Google in all their wisdom removed the ability to save external file types from being opened in Chrome. Previous to a recent update you 
-could click "Always open links of this type inh the associated app". After checking this option Chrome would open files without a prompt.
+could click "Always open links of this type in the associated app". After checking this option Chrome would open files without a prompt.
 
 This registry file returns this ability.
 
